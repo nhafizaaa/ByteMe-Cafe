@@ -5,7 +5,7 @@
 <br>
 
 
-<img src="https://i.ibb.co/pPTH9X4/0-1.png">
+<img src="https://github.com/nhafizaaa/ByteMe-Cafe/blob/main/img/0.1.PNG">
 <p align="center">The home page of the system where user can select whether they want to login as customer or staff and customer also can sign up their own account.</p>
 <img src="https://github.com/nhafizaaa/ByteMe-Cafe/blob/main/img/1.PNG">
 <p align="center">Customer can view the listed menu and enter quantity of their order.</p>
